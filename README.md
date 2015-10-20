@@ -1,4 +1,11 @@
-![](https://cloud.githubusercontent.com/assets/110953/7877439/6a69d03e-0590-11e5-9fac-c614246606de.png)
+unp:[![Build Status](https://ci.42nerds.com/buildStatus/icon?job=docker-test&build=16)](https://ci.42nerds.com/job/docker-test/16/)
+
+p:[![Build Status](https://ci.42nerds.com/job/docker-test/16/badge/icon)](https://ci.42nerds.com/job/docker-test/16/)
+
+wovp: [![Build Status](https://ci.42nerds.com/job/docker-test/16//badge/icon)](https://ci.42nerds.com/job/docker-test/16/)
+
+wovunp: [![Build Status](https://ci.42nerds.com/buildStatus/icon?job=docker-test&build=16)](https://ci.42nerds.com/job/docker-test/16/)
+
 ## Polymer Starter Kit
 
 > A starting point for building web applications with Polymer 1.0
